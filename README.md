@@ -1,6 +1,6 @@
 ##  Olá! Eu sou a Stefany Martins
 
-- 🌱  Cursando Análise e desenvolvimento de sistemas
+- 🌱  Cursando análise e desenvolvimento de sistemas
 
 <div>
   <a href="https://github.com/Stefany-Martins">
